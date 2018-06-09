@@ -1,0 +1,62 @@
+This file contains the notices required by the libraries used by LensKit.
+
+commons-compress-1.8.jar:
+    Apache Commons Compress
+    Copyright 2002-2014 The Apache Software Foundation
+    
+    This product includes software developed at
+    The Apache Software Foundation (http://www.apache.org/).
+    
+    The files in the package org.apache.commons.compress.archivers.sevenz
+    were derived from the LZMA SDK, version 9.20 (C/ and CPP/7zip/),
+    which has been placed in the public domain:
+    
+    "LZMA SDK is placed in the public domain." (http://www.7-zip.org/sdk.html)
+
+groovy-all-2.1.5.jar:
+    Apache Commons CLI
+    Copyright 2001-2009 The Apache Software Foundation
+    
+    This product includes software developed by
+    The Apache Software Foundation (http://www.apache.org/).
+
+joda-time-2.3.jar:
+    =============================================================================
+    = NOTICE file corresponding to section 4d of the Apache License Version 2.0 =
+    =============================================================================
+    This product includes software developed by
+    Joda.org (http://www.joda.org/).
+
+commons-cli-1.2.jar:
+    Apache Commons CLI
+    Copyright 2001-2009 The Apache Software Foundation
+    
+    This product includes software developed by
+    The Apache Software Foundation (http://www.apache.org/).
+
+ant-1.8.4.jar:
+       Apache Ant
+       Copyright 1999-2012 The Apache Software Foundation
+    
+       The <sync> task is based on code Copyright (c) 2002, Landmark
+       Graphics Corp that has been kindly donated to the Apache Software
+       Foundation.
+
+ant-launcher-1.8.4.jar:
+       Apache Ant
+       Copyright 1999-2012 The Apache Software Foundation
+    
+       The <sync> task is based on code Copyright (c) 2002, Landmark
+       Graphics Corp that has been kindly donated to the Apache Software
+       Foundation.
+
+commons-lang3-3.3.jar:
+    Apache Commons Lang
+    Copyright 2001-2014 The Apache Software Foundation
+    
+    This product includes software developed at
+    The Apache Software Foundation (http://www.apache.org/).
+    
+    This product includes software from the Spring Framework,
+    under the Apache License 2.0 (see: StringUtils.containsWhitespace())
+
